@@ -1,0 +1,49 @@
+[
+  {
+    "email": "domagoj.zganec1@gmail.com",
+    "oglasnikURLs": [
+      {
+        "url": "https://www.oglasnik.hr/stanovi-najam?ad_location_2%5B%5D=7442&ad_location_3%5B%5D=7470&ad_location_3%5B%5D=7508&ad_location_3%5B%5D=7526&ad_params_43%5B%5D=1985&ad_params_43%5B%5D=1986&ad_params_43%5B%5D=1987&ad_params_uploadable=1&ad_price_to=2.500",
+        "ads": [
+          {
+            "title": "Maksimir, 1- soban stan, 28 m2, studentici",
+            "price": "1.700 kn",
+            "info": "  Površina: 28 m2Broj soba: 1-sobni  ",
+            "link": "https://www.oglasnik.hr/stanovi-najam/maksimir-1-soban-stan-28-m2-studentici-oglas-3736433",
+            "image": "https://www.oglasnik.hr/repository/images/_var/c/a/caf29c4b6485ffe811b912ba243919872f6690c72-ListingMediumNoCrop.jpg",
+            "createdDate": "28.01.2019."
+          },
+          {
+            "title": "Centar, iznajmljujem garsonijeru",
+            "price": "1.800 kn",
+            "info": "  Površina: 35 m2Broj soba: 1,5-sobni  ",
+            "link": "https://www.oglasnik.hr/stanovi-najam/centar-iznajmljujem-garsonijeru-oglas-313695",
+            "image": "https://www.oglasnik.hr/repository/images/_var/0/4/04e980a24dec68d7c7c61285bf914fe30e211afc-ListingMediumNoCrop.JPG",
+            "createdDate": "27.01.2019."
+          }          
+        ]
+      },
+      {
+        "url": "https://www.oglasnik.hr/rezervni-dijelovi-za-traktore",
+        "ads": [
+          {
+            "title": "Rezervni djelovi Kobato motora",
+            "price": "4.000 kn",
+            "info": "  Prodajem djelove rastavljenog neispravnog Kobota motora broj 722 , snage 11.5 kw Tehničke i ostale informacije 098 321 871  ",
+            "link": "https://www.oglasnik.hr/rezervni-dijelovi-za-traktore/rezervni-djelovi-kobato-motora-oglas-3741044",
+            "image": "https://www.oglasnik.hr/assets/img/fallback-images/icn_strojevi_i_alati_180.svg",
+            "createdDate": "30.01.2019."
+          },
+          {
+            "title": "Felge traktorske, 28\"",
+            "price": "1.000 kn",
+            "info": "  Prodajem traktorske felge 28 cola, 6 rupa, 16 cm centralna rupa, 10 cm razmak sarafa. Zvati za ostale informacije.  ",
+            "link": "https://www.oglasnik.hr/rezervni-dijelovi-za-traktore/felge-traktorske-28-oglas-1425836",
+            "image": "https://www.oglasnik.hr/assets/img/fallback-images/icn_strojevi_i_alati_180.svg",
+            "createdDate": "12.01.2019."
+          }
+        ]
+      }
+    ]
+  }
+]
