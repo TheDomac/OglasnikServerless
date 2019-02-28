@@ -2,41 +2,38 @@ const _ = require("lodash");
 const config = require("../config");
 
 function getUserWithJustNewAds(user, sameUserInOldState) {
-  const userWithNoAds = {
+  const oglasnikURLsWithNewAds = user.oglasnikURLs.reduce(
+    (prev, oglasnikURL) => {
+      const sameURLInOldState = sameUserInOldState.oglasnikURLs.find(
+        oldStateURL => oldStateURL.url === oglasnikURL.url
+      );
+
+      if (!sameURLInOldState) {
+        return config.sendMailWithInitialContentFromNewURL
+          ? [...prev, oglasnikURL]
+          : prev;
+      }
+
+      const newAdsInURL = _.differenceBy(
+        oglasnikURL.ads,
+        sameURLInOldState.ads,
+        "link"
+      );
+
+      const URLWithJustNewAds = {
+        ...oglasnikURL,
+        ads: newAdsInURL
+      };
+
+      return [...prev, URLWithJustNewAds];
+    },
+    []
+  );
+
+  return {
     ...user,
-    oglasnikURLs: []
+    oglasnikURLs: oglasnikURLsWithNewAds
   };
-
-  return user.oglasnikURLs.reduce((prev, oglasnikURL) => {
-    const sameURLInOldState = sameUserInOldState.oglasnikURLs.find(
-      oldStateURL => oldStateURL.url === oglasnikURL.url
-    );
-
-    if (!sameURLInOldState) {
-      return config.sendMailWithInitialContentFromNewURL
-        ? {
-            ...prev,
-            oglasnikURLs: [...prev.oglasnikURLs, oglasnikURL]
-          }
-        : prev;
-    }
-
-    const newAdsInURL = _.differenceBy(
-      oglasnikURL.ads,
-      sameURLInOldState.ads,
-      "link"
-    );
-
-    const URLWithJustNewAds = {
-      ...oglasnikURL,
-      ads: newAdsInURL
-    };
-
-    return {
-      ...prev,
-      oglasnikURLs: [...prev.oglasnikURLs, URLWithJustNewAds]
-    };
-  }, userWithNoAds);
 }
 
 function compareState(oldState, newState) {
