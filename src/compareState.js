@@ -1,5 +1,5 @@
 const _ = require("lodash");
-const config = require("../config");
+// const config = require("../config");
 
 function getUserWithJustNewAds(user, sameUserInOldState) {
   const oglasnikURLsWithNewAds = user.oglasnikURLs.reduce(
@@ -9,9 +9,7 @@ function getUserWithJustNewAds(user, sameUserInOldState) {
       );
 
       if (!sameURLInOldState) {
-        return config.sendMailWithInitialContentFromNewURL
-          ? [...prev, oglasnikURL]
-          : prev;
+        return [...prev, oglasnikURL];
       }
 
       const newAdsInURL = _.differenceBy(
@@ -40,7 +38,7 @@ function compareState(oldState, newState) {
   return newState.reduce((prev, user) => {
     const sameUserInOldState = oldState.find(u => user.email === u.email);
     if (!sameUserInOldState) {
-      return config.sendInitialMailToNewUser ? [...prev, user] : prev;
+      return [...prev, user];
     }
 
     const userWithJustNewAds = getUserWithJustNewAds(user, sameUserInOldState);

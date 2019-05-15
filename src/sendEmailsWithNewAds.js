@@ -1,9 +1,8 @@
 const transporter = require("./awsNodemailer");
 
 function generateMailContent(url) {
-  let mailContent = `<p>There are new oglasnik ads found on this page: <a target='_blank' href='${
-    url.url
-  }'>Link</a></p>`;
+  let mailContent = `<p>There are new oglasnik ads found on this page:
+  <a target='_blank' href='${url.url}'>Link</a></p>`;
 
   url.ads.forEach(ad => {
     const adInMail = `<h3>${ad.title}</h3><h4>${ad.info}</h4><img src='${
@@ -25,7 +24,7 @@ function sendEmailsWithNewAds(stateDifferences) {
         const mailContent = generateMailContent(url);
 
         const mailOptions = {
-          from: "domagoj.zganec1@gmail.com",
+          from: "myMail@gmail.com",
           subject: "New oglasnik ads found!",
           html: mailContent,
           to: user.email

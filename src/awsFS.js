@@ -23,7 +23,7 @@ function getS3Object(bucket, key) {
 }
 
 module.exports = {
-  BUCKET: "node-njuskalo-oglasnik-d-serverlessdeploymentbuck-1cizab2dad5f7",
+  BUCKET: "node-njuskalo-oglasnik-d-serverlessdeploymentbuck-someKey",
   OBJECT_KEY: "state.json",
   getS3Object,
   writeS3Object

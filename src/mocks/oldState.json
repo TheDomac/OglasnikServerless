@@ -1,28 +1,35 @@
 [
   {
-    "email": "domagoj.zganec1@gmail.com",
+    "email": "myEmail@gmail.com",
     "oglasnikURLs": [
       {
-        "url": "https://www.oglasnik.hr/stanovi-najam?ad_location_2%5B%5D=7442&ad_location_3%5B%5D=7470&ad_location_3%5B%5D=7508&ad_location_3%5B%5D=7526&ad_params_43%5B%5D=1985&ad_params_43%5B%5D=1986&ad_params_43%5B%5D=1987&ad_params_uploadable=1&ad_price_to=2.500",
-        "ads": [{
-          "title": "Maksimir, 1- soban stan, 28 m2, studentici",
-          "price": "1.700 kn",
-          "info": "  Površina: 28 m2Broj soba: 1-sobni  ",
-          "link": "https://www.oglasnik.hr/stanovi-najam/maksimir-1-soban-stan-28-m2-studentici-oglas-3736433",
-          "image": "https://www.oglasnik.hr/repository/images/_var/c/a/caf29c4b6485ffe811b912ba243919872f6690c72-ListingMediumNoCrop.jpg",
-          "createdDate": "28.01.2019."
-        }]
-      },
-      {
-        "url": "https://www.oglasnik.hr/rezervni-dijelovi-za-traktore",
-        "ads": [{
-          "title": "Rezervni djelovi Kobato motora",
-          "price": "4.000 kn",
-          "info": "  Prodajem djelove rastavljenog neispravnog Kobota motora broj 722 , snage 11.5 kw Tehničke i ostale informacije 098 321 871  ",
-          "link": "https://www.oglasnik.hr/rezervni-dijelovi-za-traktore/rezervni-djelovi-kobato-motora-oglas-3741044",
-          "image": "https://www.oglasnik.hr/assets/img/fallback-images/icn_strojevi_i_alati_180.svg",
-          "createdDate": "30.01.2019."
-        }]
+        "url": "https://www.oglasnik.hr/stanovi-najam?ad_location_2%5B%5D=7442&ad_location_3%5B%5D=7508&ad_params_43%5B%5D=1986&ad_params_uploadable=1",
+        "ads": [
+          {
+            "title": "Britanski Trg, Kukuljevićeva, 1-sob. stan 40m2",
+            "price": "2.800 kn",
+            "info": "  Površina: 40 m2Broj soba: 1-sobni  ",
+            "link": "https://www.oglasnik.hr/stanovi-najam/britanski-trg-kukuljeviceva-1-sob-stan-40m2-oglas-3803631",
+            "image": "https://www.oglasnik.hr/repository/images/_var/2/4/24b8132e7edc3a27e6fd382840cdf67e0d5609c5-ListingMediumNoCrop.jpg",
+            "createdDate": "11.03.2019."
+          },
+          {
+            "title": "Jednosoban stan",
+            "price": "3.000 kn",
+            "info": "  Površina: 30 m2Broj soba: 1-sobni  ",
+            "link": "https://www.oglasnik.hr/stanovi-najam/jednosoban-stan-oglas-3766798",
+            "image": "https://www.oglasnik.hr/repository/images/_var/3/a/3a29f1d4985756959abf421c563345e3777eeb6f1-ListingMediumNoCrop.jpg",
+            "createdDate": "12.02.2019."
+          },
+          {
+            "title": "Gornji Grad, Medveščak, 1- sobni stan, 61 m2",
+            "price": "4.250 kn",
+            "info": "  Površina: 61 m2Broj soba: 1-sobni  ",
+            "link": "https://www.oglasnik.hr/stanovi-najam/gornji-grad-medvescak-1-sobni-stan-61-m2-oglas-3694293",
+            "image": "https://www.oglasnik.hr/repository/images/_var/8/d/8df2905757c7ccb803fc11727c89c9421bf1c9ec-ListingMediumNoCrop.jpg",
+            "createdDate": "18.12.2018."
+          }
+        ]
       }
     ]
   }
