@@ -6,7 +6,7 @@ async function getListOfAdsFromOglasnik(url) {
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
 
-    const listOfAds = $("#ads-list a")
+    const listOfAds = $("#classifieds-list a")
       .get()
       .map(el => ({
         title: $("h3.classified-title", el).text(),
