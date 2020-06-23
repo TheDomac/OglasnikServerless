@@ -1,5 +1,6 @@
 const getListOfAdsFromOglasnik = require("./getAds/getListOfAdsFromOglasnik");
 const getListOfAdsFromNjuskalo = require("./getAds/getListOfAdsFromNjuskalo");
+const getListOfAdsFromIndex = require("./getAds/getListOfAdsFromIndex");
 
 async function getAdsForAllUsers(users) {
   const adsForAllUsers = users.map(async user => {
@@ -9,6 +10,8 @@ async function getAdsForAllUsers(users) {
         ads = await getListOfAdsFromOglasnik(url);
       } else if (url.includes("www.njuskalo.hr")) {
         ads = await getListOfAdsFromNjuskalo(url);
+      } else if (url.includes("www.index.hr")) {
+        ads = await getListOfAdsFromIndex(url);
       }
 
       return {

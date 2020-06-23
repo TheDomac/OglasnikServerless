@@ -6,24 +6,25 @@ async function getListOfAdsFromNjuskalo(url) {
     const response = await axios.get(url);
     const $ = cheerio.load(response.data);
 
-    const listOfAds = $(".EntityList-items li.EntityList-item--Regular")
+    const listOfAds = $(".results .OglasiRezHolder a")
       .get()
       .map(el => ({
-        title: $("h3.entity-title a", el).text(),
-        price: $(".entity-prices .price--eur", el)
+        title: $(".title", el)
+          .text()
+          .replace(/\n/g, ""),
+        price: $(".price", el)
+          .text()
+          .replace(/  +/g, " ")
+          .replace(/\n/g, ""),
+        info: $(".lead", el)
           .text()
           .replace(/  +/g, " ")
           .replace(/\n/g, " "),
-        info: $(".entity-description-main", el)
-          .text()
-          .replace(/  +/g, " ")
-          .replace(/\n/g, " "),
-        link: `https://www.njuskalo.hr${$("h3.entity-title a", el).attr(
-          "href"
-        )}`,
-        image: $(".entity-thumbnail img", el).data("src"),
-        createdDate: $(".entity-pub-date time", el).text()
+        link: $(el).attr("href"),
+        image: $(".result_photo img", el).attr("src"),
+        createdDate: $(".foot .info .icon-time", el).text()
       }));
+
     return listOfAds;
   } catch (error) {
     throw new Error(error);

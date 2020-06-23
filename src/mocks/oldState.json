@@ -3,199 +3,31 @@
     "email": "domagoj.zganec1@gmail.com",
     "oglasnikURLs": [
       {
-        "url": "https://www.njuskalo.hr/prodaja-stanova/donja-dubrava?livingArea%5Bmax%5D=75",
+        "url": "https://www.index.hr/oglasi/prodaja-stanova/gid/3278?pojam=&sortby=1&cijenaod=0&cijenado=13000&tipoglasa=1&pojamZup=1153&grad=1251&naselje=&attr_Int_988=&attr_Int_887=&attr_bit_stan=&attr_bit_brojEtaza=&attr_gr_93_1=&attr_gr_93_2=&attr_Int_978=&attr_Int_1334=&attr_bit_eneregetskiCertifikat=&vezani_na=988-887_562-563_978-1334&elementsNum=50",
         "ads": [
           {
-            "title": "Stan:Zgb,(Dubrava) 2-sob.58m2, 3.kat, lift, APN",
-            "price": "  88.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 3. katStambena površina: 58 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/stan-zagreb-retkovec-58.00-m2-oglas-29465867",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/stan-zagreb-retkovec-58.00-m2-slika-120221981.jpg",
-            "createdDate": "23.06.2020."
+            "title": "Stan Zagreb-Gornja Dubrava- 50.83 m2, Kod Lidla i Gardena - 94.000 Eu",
+            "price": "94 € ~ 710 kn",
+            "info": "Blizu Busa, Škole, ŠRC Klaka, Lidla, Gardena, Konzuma",
+            "link": "https://www.index.hr/oglasi/stan-zagreb-gornja-dubrava-50-83-m2-kod-lidla-i-gardena-94-000-eu/oid/2339880",
+            "image": "https://www.index.hr/oglasi/UserDocsImages/oglas/_2020//6//13/2339880/226f6f6f-3206-469b-bd9e-2a4b398ee301resized-130620201802319529.jpg?preset=oglas-slika-view",
+            "createdDate": "Objava 13.06.2020."
           },
           {
-            "title": "DUBRAVA, stan od 60m2",
-            "price": "  96.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 2. katStambena površina: 60 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/dubrava-stan-60m2-oglas-30354191",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/dubrava-stan-60m2-slika-132809427.jpg",
-            "createdDate": "23.06.2020."
+            "title": "PRODAJA četverosobnog STANA",
+            "price": "0,00 € ~ 0,00 kn",
+            "info": "stan na mirnom i lijepom položaju",
+            "link": "https://www.index.hr/oglasi/prodaja-cetverosobnog-stana/oid/2124829",
+            "image": "https://www.index.hr/oglasi/UserDocsImages/oglas/_2020//1//28/2124829/dboravak6-280120201745523101.JPG?preset=oglas-slika-view",
+            "createdDate": "Objava 28.01.2020."
           },
           {
-            "title": "Retkovec, 2,5 - sobni, novouređen i potpuno namješten stan, APN - 9 mj",
-            "price": "  93.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 6. katStambena površina: 45.1 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/retkovec-2.5-sobni-novoureden-potpuno-namjesten-stan-apn-9-mj-oglas-31561894",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/retkovec-2.5-sobni-novoureden-potpuno-namjesten-stan-apn-9-mj-slika-131788216.jpg",
-            "createdDate": "22.06.2020."
-          },
-          {
-            "title": "STAN, 48m2, DUBRAVA CENTAR",
-            "price": "  120.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, prizemljeStambena površina: 48 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/stan-48m2-dubrava-centar-oglas-31331995",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/stan-48m2-dubrava-centar-slika-130495765.jpg",
-            "createdDate": "21.06.2020."
-          },
-          {
-            "title": "Stan: Zagreb,Poljanički Prilaz, (Donja Dubrava), 60.00 m2, novogradnja",
-            "price": "  96.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 2. katStambena površina: 60 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/stan-zagreb-poljanicki-prilaz-donja-dubrava-60.00-m2-novogradnja-oglas-28438923",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/stan-zagreb-poljanicki-prilaz-donja-dubrava-60.00-m2-novogradnja-slika-114786733.jpg",
-            "createdDate": "21.06.2020."
-          },
-          {
-            "title": "Stan: Zagreb (Donja Dubrava), 50 m2, 3 soban, namješten, novo uređeni",
-            "price": "  65.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 1. katStambena površina: 50 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/stan-zagreb-donja-dubrava-50-m2-3-soban-namjesten-uredeni-oglas-31722768",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/stan-zagreb-donja-dubrava-50-m2-3-soban-namjesten-uredeni-slika-132873930.jpg",
-            "createdDate": "20.06.2020."
-          },
-          {
-            "title": "PRODAJE SE POTPUNO UREĐEN STAN S VELIKOM TERASOM, AVENIJA DUBRAVA",
-            "price": "  114.000 € ~  ",
-            "info": "  Stan u stambenoj zgradiStambena površina: 63 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/stan-zadnjem-katu-velikom-terasom-avenija-dubrava-oglas-31405728",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/stan-zadnjem-katu-velikom-terasom-avenija-dubrava-slika-130772335.jpg",
-            "createdDate": "20.06.2020."
-          },
-          {
-            "title": "Donja Dubrava Stan 55m2",
-            "price": "  90.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 4. katStambena površina: 55 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/culinec-stan-55m2-oglas-30943681",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/culinec-stan-55m2-slika-128452435.jpg",
-            "createdDate": "19.06.2020."
-          },
-          {
-            "title": "Prekrasan novouređeni stan u Donjoj Dubravi (Sitnice) ,65m2, 7.kat",
-            "price": "  108.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 7. katStambena površina: 65 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/prekrasan-novouredeni-stan-donjoj-dubravi-sitnice-65m2-7-kat-oglas-30996742",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/prekrasan-novouredeni-stan-donjoj-dubravi-sitnice-65m2-7-kat-slika-128765881.jpg",
-            "createdDate": "19.06.2020."
-          },
-          {
-            "title": "Stan prodaja Dubrava, ul. Sitnice",
-            "price": "  80.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 1. katStambena površina: 33 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/stan-prodaja-dubrava-ul-sitnice-oglas-31533716",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/stan-prodaja-dubrava-ul-sitnice-slika-131633639.jpg",
-            "createdDate": "19.06.2020."
-          },
-          {
-            "title": "TRNAVA-72 M2 (U NARAVI 80), 4-SOBNI, 2005. GOD, PARKING, ODLIČNA LOKAC",
-            "price": "  111.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 1. katStambena površina: 72 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/trnava-72-m2-naravi-80-4-sobni-2005-god-parking-odlicna-lokac-oglas-30045706",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/trnava-72-m2-naravi-80-4-sobni-2005-god-parking-odlicna-lokac-slika-123316216.jpg",
-            "createdDate": "19.06.2020."
-          },
-          {
-            "title": "Dubrava, novi projekt od 9 stanova, 4s od 72m2",
-            "price": "  139.873 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 1. katStambena površina: 71.73 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/dubrava-projekt-9-stanova-4s-72m2-oglas-30129415",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/dubrava-projekt-9-stanova-4s-72m2-slika-123800640.jpg",
-            "createdDate": "19.06.2020."
-          },
-          {
-            "title": "DUBRAVA, ZDRAVKA HORVATIĆA, 56.71 m2 - BEZ PROVIZIJE ZA KUPCE",
-            "price": "  100.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 1. katStambena površina: 56.71 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/dubrava-zdravka-horvatica-56.71-m2-bez-provizije-kupce-oglas-29363157",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/dubrava-zdravka-horvatica-56.71-m2-bez-provizije-kupce-slika-119578845.jpg",
-            "createdDate": "19.06.2020."
-          },
-          {
-            "title": "DUBRAVA, ALEJA LIPA, 62.80 m2 - BEZ PROVIZIJE ZA KUPCE",
-            "price": "  110.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 4. katStambena površina: 62.8 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/dubrava-aleja-lipa-62.80-m2-bez-provizije-kupce-oglas-31622001",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/dubrava-aleja-lipa-62.80-m2-bez-provizije-kupce-slika-132138329.jpg",
-            "createdDate": "19.06.2020."
-          },
-          {
-            "title": "DUBRAVA, AVENIJA DUBRAVA, 69.97 m2 - BEZ PROVIZIJE ZA KUPCE",
-            "price": "  120.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 5. katStambena površina: 69.97 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/dubrava-avenija-dubrava-69.97-m2-bez-provizije-kupce-oglas-30761136",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/dubrava-avenija-dubrava-69.97-m2-bez-provizije-kupce-slika-127384203.jpg",
-            "createdDate": "19.06.2020."
-          },
-          {
-            "title": "DUBRAVA, M.GAVAZZIJA, 32.53 m2 - BEZ PROVIZIJE ZA KUPCE",
-            "price": "  59.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 1. katStambena površina: 32.53 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/dubrava-m-gavazzija-32.53-m2-bez-provizije-kupce-oglas-31459892",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/dubrava-m-gavazzija-32.53-m2-bez-provizije-kupce-slika-131206014.jpg",
-            "createdDate": "19.06.2020."
-          },
-          {
-            "title": "Prodaja, stan, Dubrava, 3s, 72m2",
-            "price": "  137.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 1. katStambena površina: 72 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/prodaja-stan-dubrava-3s-72m2-oglas-31586447",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/prodaja-stan-dubrava-3s-72m2-slika-129890974.jpg",
-            "createdDate": "19.06.2020."
-          },
-          {
-            "title": "Dubrava, Retkovec, uz aveniju, 2 soban s loggiom, 62.80m2",
-            "price": "  110.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 4. katStambena površina: 62.8 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/dubrava-retkovec-aveniju-2-soban-loggiom-62.80m2-oglas-31645917",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/dubrava-retkovec-aveniju-2-soban-loggiom-62.80m2-slika-132374962.jpg",
-            "createdDate": "19.06.2020."
-          },
-          {
-            "title": "D. Dubrava, Retkovec, 2 soban stan, 34.71m2",
-            "price": "  64.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 4. katStambena površina: 34.71 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/d-dubrava-retkovec-2-soban-stan-34.71m2-oglas-31331969",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/d-dubrava-retkovec-2-soban-stan-34.71m2-slika-130495531.jpg",
-            "createdDate": "19.06.2020."
-          },
-          {
-            "title": "Čulinec,Čulinečka cesta,lijep 3soban,1.kat,68.17m2",
-            "price": "  75.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 1. katStambena površina: 68.17 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/culinec-culinecka-cesta-lijep-3soban-1-kat-68.17m2-oglas-30628905",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/culinec-culinecka-cesta-lijep-3soban-1-kat-68.17m2-slika-126596518.jpg",
-            "createdDate": "19.06.2020."
-          },
-          {
-            "title": "Stan: Zagreb (Retkovec), 41.23 m2",
-            "price": "  72.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 3. katStambena površina: 41.23 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/stan-zagreb-retkovec-41.23-m2-oglas-30786326",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/stan-zagreb-retkovec-41.23-m2-slika-127530290.jpg",
-            "createdDate": "19.06.2020."
-          },
-          {
-            "title": "Stan: Zagreb (Dubrava), 60.00 m2",
-            "price": "  120.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 2. katStambena površina: 60 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/stan-zagreb-dubrava-60.00-m2-oglas-31683362",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/stan-zagreb-dubrava-60.00-m2-slika-132540574.jpg",
-            "createdDate": "18.06.2020."
-          },
-          {
-            "title": "Stan: Zagreb (Trnava), 32.00 m2",
-            "price": "  72.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, visoko prizemljeStambena površina: 32 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/stan-zagreb-trnava-32.00-m2-oglas-30942311",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/stan-zagreb-trnava-32.00-m2-slika-128444697.jpg",
-            "createdDate": "18.06.2020."
-          },
-          {
-            "title": "LIJEP STAN U DUBRAVI PRODAJEMO",
-            "price": "  98.000 € ~  ",
-            "info": "  Stan u stambenoj zgradi, 1. katStambena površina: 52.64 m2 ",
-            "link": "https://www.njuskalo.hr/nekretnine/lijep-stan-dubravi-prodajemo-oglas-31581200",
-            "image": "//www.njuskalo.hr/image-200x150/nekretnine/lijep-stan-dubravi-prodajemo-slika-131906413.jpg",
-            "createdDate": "18.06.2020."
+            "title": "Stanovi Dubrava 25 +50 m2 , moguce spajanje i prosirenje +20 m2",
+            "price": "1.070 € ~ 7.892 kn",
+            "info": "",
+            "link": "https://www.index.hr/oglasi/stanovi-dubrava-25-50-m2-moguce-spajanje-i-prosirenje-20-m2/oid/2008949",
+            "image": "https://www.index.hr/oglasi/UserDocsImages/kategorije_NoIcon/nekretnine.jpg?preset=oglas-slika-view2",
+            "createdDate": "Objava 08.11.2019."
           }
         ]
       }
